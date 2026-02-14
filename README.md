@@ -53,6 +53,9 @@ cp .env.example .env
 
 **必填项：**
 
+<!-- 图像 -->
+![image](./images/001.png)
+
 | 变量 | 说明 |
 |---|---|
 | `LARK_APP_ID` | 飞书应用的 App ID |
@@ -86,6 +89,9 @@ pnpm start
 ```
 
 ## 飞书应用配置
+
+<!-- 图像 -->
+![image](./images/002.png)
 
 1. 前往 [飞书开放平台](https://open.feishu.cn/) 创建企业自建应用
 2. 开启**机器人**能力
