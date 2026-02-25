@@ -1,5 +1,7 @@
 # Lark Imagine Robot
 
+**[English](./README_EN.md) | 中文**
+
 飞书 AI 图片生成机器人 — 在飞书中通过自然语言描述生成图片。
 
 ## 使用截图
